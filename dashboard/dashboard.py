@@ -10,8 +10,6 @@ top_selling_categories = pd.read_csv("top_selling_categories.csv")
 st.header('Fariz Eda Dasboard :sparkles:')
 st.subheader('Our Top 5s')
 
-
-
 col1, col2 = st.columns(2)
 
 
